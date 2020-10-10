@@ -1,2 +1,23 @@
 # polylog
-Online classroom with video and realtime activities
+---
+Welcome to Polylog, a live online video classroom that enables you to scale your cohorts.
+
+## the problem
+Traditional lecture style delivery is not well suited for online learning.
+
+
+
+
+---
+## the solution
+Keep online learners engaged and participating in your lectures.
+
+* Ice breakers
+* How are is everyone feeling?
+* Here is where we are in the today's agenda
+* Here is the key point
+* Let's take a look at everyone's questions
+* Pop quiz time
+* How well did you understand what we covered?
+* Who attended the class?
+* Who has been steadyly uncomfortable and might need coaching?
