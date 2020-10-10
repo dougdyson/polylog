@@ -18,12 +18,12 @@ Traditional lecture style delivery is not well suited for online learning.
 Keep online learners engaged and participating in your lectures.
 
 * Ice breakers
-* How are is everyone feeling?
+* How is everyone feeling?
 * Here is where we are in the today's agenda
-* Here is the key point
-* Let's take a look at everyone's questions
+* Here is the key takeaway
+* Let's look at everyone's questions
 * Pop quiz time
 * Let's breakout into groups
-* How well did you understand what we covered?
+* How well did everyone understand what we covered?
 * Who attended the class?
 * Who has been steadily uncomfortable and might need coaching?
