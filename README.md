@@ -10,6 +10,8 @@ Traditional lecture style delivery is not well suited for online learning.
 * Gauging comprehension is difficult
 * Measuring progress is difficult
 * Improvement opporuntities can be challening to spot
+* Pivoting from onsite to online delivery model
+* Need to innovate to stay competitive
 
 ---
 ## the solution
@@ -21,6 +23,7 @@ Keep online learners engaged and participating in your lectures.
 * Here is the key point
 * Let's take a look at everyone's questions
 * Pop quiz time
+* Let's breakout into groups
 * How well did you understand what we covered?
 * Who attended the class?
-* Who has been steadyly uncomfortable and might need coaching?
+* Who has been steadily uncomfortable and might need coaching?
