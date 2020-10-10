@@ -1,2 +1,2 @@
-# polylogue
-Remote classroom with video and realtime activities
+# polylog
+Online classroom with video and realtime activities
