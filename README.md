@@ -27,5 +27,7 @@ Keep online learners engaged and participating in your lectures.
 * Who attended the class?
 * Who has been uncomfortable and might need coaching?
 * Who has been getting more confident and knowledgeable?
+* What content is resonating?
+* What content needs attention?
 
 
