@@ -10,7 +10,6 @@ Traditional lecture style delivery is not well suited for online learning.
 * Gauging comprehension is difficult
 * Measuring progress is difficult
 * Improvement opporuntities can be challening to spot
-* Pivoting from onsite to online delivery model
 * Need to innovate to stay competitive
 
 ---
