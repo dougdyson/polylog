@@ -1,4 +1,4 @@
-# polylog
+# polylog - a bootcamp capstone project
 ---
 Welcome to polylog, a live online video classroom that enables you to scale your cohorts.
 
