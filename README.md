@@ -4,9 +4,12 @@ Welcome to Polylog, a live online video classroom that enables you to scale your
 
 ## the problem
 Traditional lecture style delivery is not well suited for online learning.
-
-
-
+* Cohort sizes are limited by current video services
+* Keeping everyone on track can be challenging
+* Monitoring participation is difficult
+* Gauging comprehension is difficult
+* Measuring progress is difficult
+* Improvement opporuntities can be challening to spot
 
 ---
 ## the solution
