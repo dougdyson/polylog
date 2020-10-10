@@ -9,7 +9,7 @@ Traditional lecture style delivery is not well suited for online learning.
 * Monitoring participation is difficult
 * Gauging comprehension is difficult
 * Measuring progress is difficult
-* Improvement opportuntities can be challening to spot
+* Improvement opportuntities can be challenging to spot
 * Need to innovate to stay competitive
 
 ---
