@@ -28,7 +28,7 @@ Keep online learners engaged and participating in your lectures.
 * Who has been uncomfortable and might need coaching?
 * Who has been getting more confident and knowledgeable?
 * What lecture content is resonating?
-* What lecturing content needs attention?
+* What lecture content needs attention?
 ---
 ## a napkin
-![alt text](./docs/polylog-napkin.png)
+![rough diagram](./docs/polylog-napkin.png)
