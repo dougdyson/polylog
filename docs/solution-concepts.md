@@ -26,7 +26,7 @@ Keep online learners engaged and participating in your lectures by incorporating
 * Students can automatically be placed into smaller groups for breakouts and return to the main lecture when a certain time has passed or the lecturer recalls the breakout groups
 
 ### "How well did everyone understand what we covered today?"
-* A poll to guage peoples' sense of understanding and feelings on the lecture
+* A poll to gauge peoples' sense of understanding and feelings on the lecture
 
 ---
 
