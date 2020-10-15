@@ -39,4 +39,4 @@ Keep online learners engaged and participating in your lectures by incorporating
 
 ---
 ## Design Concept
-![screen concept](polylog-example.png)
+![screen concept](polylog-screen-concept.png)
