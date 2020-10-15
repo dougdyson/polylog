@@ -5,7 +5,7 @@ Welcome to polylog, a live online video classroom that enables you to scale your
 
 ## the problem
 Traditional lecture style delivery is not well suited for online learning.
-* Cohort sizes are limited by current video services
+* Cohort sizes are limited by current video services and bandwidth
 * Keeping everyone on track can be challenging
 * Monitoring participation is difficult
 * Gauging comprehension is difficult
@@ -16,7 +16,7 @@ Traditional lecture style delivery is not well suited for online learning.
 
 ---
 ## the solution
-Keep online learners engaged and participating in your lectures.
+Keep online learners engaged and participating in your lectures by incorporating interactive features such as polls, quizzes, q&a, topic cards and activity feed.
 
 * "Here's something fun to start off with..."
 * "How is everyone feeling this morning?"
@@ -26,11 +26,16 @@ Keep online learners engaged and participating in your lectures.
 * "Pop quiz time!
 * "Let's breakout into groups..."
 * "How well did everyone understand what we covered today?"
+
+Reporting will help answer these questions:
 * Who attended the class?
 * Who has been uncomfortable and might need coaching?
 * Who has been getting more confident and knowledgeable?
 * What lecture content is resonating?
 * What lecture content needs attention?
+
+These solution concepts are explored in more detail in [solution-concepts](./docs/solution-concepts.md)
+
 ---
 ## a napkin
 ![rough diagram](./docs/polylog-napkin.png)
