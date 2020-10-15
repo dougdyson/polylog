@@ -11,6 +11,7 @@ Traditional lecture style delivery is not well suited for online learning.
 * Gauging comprehension is difficult
 * Measuring progress is difficult
 * Improvement opportuntities can be challenging to spot
+* AI video compression will diminish real visual feedback
 * Need to innovate to stay competitive
 
 ---
