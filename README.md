@@ -38,4 +38,4 @@ These solution concepts are explored in more detail in [solution-concepts](./doc
 
 ---
 ## a napkin
-![rough diagram](./docs/polylog-napkin.png)
+![rough diagram](./docs/polylog-example.png)
