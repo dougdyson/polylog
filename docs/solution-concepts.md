@@ -10,7 +10,7 @@ Keep online learners engaged and participating in your lectures by incorporating
 ### "How is everyone feeling this morning?"
 * Lecturer can poll students to select an emoji. Overall results are displayed by participating in the poll; or when a certain % of people have responded; or the lecture chooses to make the poll results visible
 
-### "Here is where we are in the today's agenda..."
+### "Here is today's agenda..."
 * A card with the lecture's topics in the lecture activity feed
 
 ### "Let's talk about this [agenda topic]..."
