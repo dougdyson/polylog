@@ -20,7 +20,7 @@ Keep online learners engaged and participating in your lectures by incorporating
 * A view which displays all questions and answers from students, which can be upvoted. Questions can be marked as answered.
 
 ### "Pop quiz time!"
-* A mulitple choice quiz card in the activity feed. Results are displayed by participating in the poll; or when a certain % of people have responded; or the lecture chooses to make the poll results visible
+* A mulitple choice quiz card in the activity feed. Results are displayed by participating in the poll; or after a specified period of time; or when a certain % of people have responded; or the lecture chooses to make the poll results visible
 
 ### "Let's breakout into groups..."
 * Students can automatically be placed into smaller groups for breakouts and return to the main lecture when a certain time has passed or the lecturer recalls the breakout groups
