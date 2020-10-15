@@ -31,8 +31,12 @@ Keep online learners engaged and participating in your lectures by incorporating
 ---
 
 ### Reporting will help answer these questions:
-* Who attended the class?
+* Who attended the lecture?
 * Who has been uncomfortable and might need coaching?
 * Who has been getting more confident and knowledgeable?
 * What lecture content is resonating?
 * What lecture content needs attention?
+
+---
+## Design Concept
+![screen concept](polylog-example.png)
