@@ -38,4 +38,4 @@ These solution concepts are explored in more detail in [solution-concepts](./doc
 
 ---
 ## a napkin
-![screen concept](polylog-screen-concept.png)
+![screen concept](docs/polylog-screen-concept.png)
