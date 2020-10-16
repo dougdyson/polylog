@@ -34,7 +34,7 @@ Reporting will help answer these questions:
 * What lecture content is resonating?
 * What lecture content needs attention?
 
-These solution concepts are explored in more detail in [solution-concepts](./docs/solution-concepts.md)
+These solution concepts are explored in more detail in the project wiki: [solution-concepts](https://github.com/HatHeadNinja/polylog/wiki/Solution-Concepts)
 
 ---
 ## a napkin
