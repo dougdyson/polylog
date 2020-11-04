@@ -1,6 +1,10 @@
 # Polylog - a bootcamp capstone project
 Polylog reimagines the online lecture experience, blending live video streamstreaming with a structured learning experience.
 
+## the developers
+[Carl Comtois](https://github.com/TheMartonfi)
+[Doug Dyson](https://www.linkedin.com/in/douglasdyson/)
+
 ## the problem
 Traditional lecture style delivery is not well suited for online learning.
 * Cohort sizes are limited by current video services and bandwidth
@@ -11,7 +15,6 @@ Traditional lecture style delivery is not well suited for online learning.
 * Improvement opportuntities can be challenging to spot
 * AI video compression will diminish real visual feedback
 * Need to innovate to stay competitive
-
 
 ## the solution
 Check out our [wiki](https://github.com/HatHeadNinja/polylog/wiki)
