@@ -12,10 +12,12 @@ There you'll find:
 * [new feature ideas](https://github.com/HatHeadNinja/polylog/wiki/New-Feature-Ideas)
 
 ## Code
-
+Our project code is contained in two reposititories:
+* [postgres database and node api server(https://github.com/TheMartonfi/polylog-api)
+* [react front-emd](https://github.com/HatHeadNinja/polylog)
 
 ## Newsletter
-
+[subscribe](https://mailchi.mp/a9924ea56d53/aagzuqbgwu)
 
 [Link](url) and ![Image](src)
 ```
