@@ -24,12 +24,12 @@ There you'll find:
 * [user stories](https://github.com/HatHeadNinja/polylog/wiki/User-Stories)
 * [new feature ideas](https://github.com/HatHeadNinja/polylog/wiki/New-Feature-Ideas)
 
-## Code
+## code
 Our project code is contained in two reposititories:
 * [postgres database and node api server](https://github.com/TheMartonfi/polylog-api)
 * [react front-end](https://github.com/HatHeadNinja/polylog)
 
-## Newsletter
+## newsletter
 [subscribe to our newsletter](https://mailchi.mp/a9924ea56d53/aagzuqbgwu)
 
 
