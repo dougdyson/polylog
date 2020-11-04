@@ -1,8 +1,15 @@
-# PolyLog
+# Polylog
 Polylog reimagines the online lecture experience, blending live video streamstreaming with a structured learning experience.
 
 ## Info
+Check out our [wiki](https://github.com/HatHeadNinja/polylog/wiki)
 
+There you'll find:
+* [early concepts](https://github.com/HatHeadNinja/polylog/wiki/Solution-Concepts)
+* [discovery project plan](https://github.com/HatHeadNinja/polylog/projects/1)
+* [user interviews](https://github.com/HatHeadNinja/polylog/wiki/User-Interviews)
+* [user stories](https://github.com/HatHeadNinja/polylog/wiki/User-Stories)
+* [new feature ideas](https://github.com/HatHeadNinja/polylog/wiki/New-Feature-Ideas)
 
 ## Code
 
