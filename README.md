@@ -30,6 +30,5 @@ Our project code is contained in two reposititories:
 
 ## Newsletter
 [subscribe to our newsletter](https://mailchi.mp/a9924ea56d53/aagzuqbgwu)
-```
-![Image](https://github.com/HatHeadNinja/polylog/blob/gh-pages/polylog-logo-2-2.png)
+
 
