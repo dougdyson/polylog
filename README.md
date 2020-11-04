@@ -2,8 +2,8 @@
 Polylog reimagines the online lecture experience, blending live video streamstreaming with a structured learning experience.
 
 ## the developers
-[Carl Comtois](https://github.com/TheMartonfi)
-[Doug Dyson](https://www.linkedin.com/in/douglasdyson/)
+* [Carl Comtois](https://github.com/TheMartonfi)
+* [Doug Dyson](https://www.linkedin.com/in/douglasdyson/)
 
 ## the problem
 Traditional lecture style delivery is not well suited for online learning.
