@@ -1,7 +1,5 @@
-# polylog - a bootcamp capstone project
-
-Welcome to polylog, a live online video classroom that enables you to scale your cohorts.
-
+# Polylog - a bootcamp capstone project
+Polylog reimagines the online lecture experience, blending live video streamstreaming with a structured learning experience.
 
 ## the problem
 Traditional lecture style delivery is not well suited for online learning.
@@ -14,28 +12,24 @@ Traditional lecture style delivery is not well suited for online learning.
 * AI video compression will diminish real visual feedback
 * Need to innovate to stay competitive
 
----
+
 ## the solution
-Keep online learners engaged and participating in your lectures by incorporating interactive features such as polls, quizzes, q&a, topic cards and activity feed.
+Check out our [wiki](https://github.com/HatHeadNinja/polylog/wiki)
 
-* "Here's something fun to start off with..."
-* "How is everyone feeling this morning?"
-* "Here is where we are in the today's agenda..."
-* "Here is the key takeaway..."
-* "Let's look at everyone's questions..."
-* "Pop quiz time!
-* "Let's breakout into groups..."
-* "How well did everyone understand what we covered today?"
+There you'll find:
+* [early concepts](https://github.com/HatHeadNinja/polylog/wiki/Solution-Concepts)
+* [discovery project plan](https://github.com/HatHeadNinja/polylog/projects/1)
+* [user interviews](https://github.com/HatHeadNinja/polylog/wiki/User-Interviews)
+* [user stories](https://github.com/HatHeadNinja/polylog/wiki/User-Stories)
+* [new feature ideas](https://github.com/HatHeadNinja/polylog/wiki/New-Feature-Ideas)
 
-Reporting will help answer these questions:
-* Who attended the class?
-* Who has been uncomfortable and might need coaching?
-* Who has been getting more confident and knowledgeable?
-* What lecture content is resonating?
-* What lecture content needs attention?
+## Code
+Our project code is contained in two reposititories:
+* [postgres database and node api server](https://github.com/TheMartonfi/polylog-api)
+* [react front-end](https://github.com/HatHeadNinja/polylog)
 
-These solution concepts and more are explored in the [project wiki](https://github.com/HatHeadNinja/polylog/wiki)
+## Newsletter
+[subscribe to our newsletter](https://mailchi.mp/a9924ea56d53/aagzuqbgwu)
 
----
-## a napkin
-![screen concept](docs/polylog-screen-concept.png)
+![Image](https://github.com/HatHeadNinja/polylog/blob/gh-pages/polylog-logo-2-2.png)
+
