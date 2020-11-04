@@ -20,8 +20,3 @@ Our project code is contained in two reposititories:
 [subscribe to our newsletter](https://mailchi.mp/a9924ea56d53/aagzuqbgwu)
 
 ![Image](https://github.com/HatHeadNinja/polylog/blob/gh-pages/polylog-logo-2-2.png)
-```
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HatHeadNinja/polylog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
