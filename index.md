@@ -14,7 +14,7 @@ There you'll find:
 ## Code
 Our project code is contained in two reposititories:
 * [postgres database and node api server](https://github.com/TheMartonfi/polylog-api)
-* [react front-emd](https://github.com/HatHeadNinja/polylog)
+* [react front-end](https://github.com/HatHeadNinja/polylog)
 
 ## Newsletter
 [subscribe to our newsletter](https://mailchi.mp/a9924ea56d53/aagzuqbgwu)
