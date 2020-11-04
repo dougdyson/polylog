@@ -17,15 +17,11 @@ Our project code is contained in two reposititories:
 * [react front-emd](https://github.com/HatHeadNinja/polylog)
 
 ## Newsletter
-[subscribe](https://mailchi.mp/a9924ea56d53/aagzuqbgwu)
+[subscribe to our newsletter](https://mailchi.mp/a9924ea56d53/aagzuqbgwu)
 
-[Link](url) and ![Image](src)
+![Image](https://github.com/HatHeadNinja/polylog/blob/gh-pages/polylog-logo-2-2.png)
 ```
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HatHeadNinja/polylog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
