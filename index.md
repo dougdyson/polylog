@@ -13,7 +13,7 @@ There you'll find:
 
 ## Code
 Our project code is contained in two reposititories:
-* [postgres database and node api server(https://github.com/TheMartonfi/polylog-api)
+* [postgres database and node api server](https://github.com/TheMartonfi/polylog-api)
 * [react front-emd](https://github.com/HatHeadNinja/polylog)
 
 ## Newsletter
