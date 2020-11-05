@@ -14,7 +14,6 @@ Traditional lecture style delivery is not well suited for online learning.
 * Measuring engagement is difficult
 
 ## the solution
-Polylog provides a safe space for remote students to learn and interact during an online live lecture.
 
 Check out our [wiki](https://github.com/HatHeadNinja/polylog/wiki)
 
