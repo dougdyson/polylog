@@ -7,7 +7,7 @@ Polylog provides a safe space for remote students to learn and interact during a
 
 ## the problem
 Traditional lecture style delivery is not well suited for online learning.
-* Connecting video cameras and only sharing a screen can leave hesitant students in remote cohorts behind
+* Leaves hesitant students in remote cohorts behind
 * Cohort sizes are challenged by current video meeting capabilities
 * Monitoring participation is difficult
 * Gauging comprehension is difficult
