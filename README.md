@@ -1,5 +1,5 @@
 # Polylog - a bootcamp capstone project
-Polylog reimagines the online lecture experience, blending live video streaming with a structured learning experience.
+Polylog provides a safe space for remote students to learn and interact during an online live lecture.
 
 ## the developers
 * [Carl Comtois](https://github.com/TheMartonfi)
