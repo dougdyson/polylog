@@ -15,9 +15,8 @@ Traditional lecture style delivery is not well suited for online learning.
 
 ## the solution
 
-Check out our [wiki](https://github.com/HatHeadNinja/polylog/wiki)
+Included in our [wiki](https://github.com/HatHeadNinja/polylog/wiki):
 
-There you'll find:
 * [early concepts](https://github.com/HatHeadNinja/polylog/wiki/Solution-Concepts)
 * [discovery project plan](https://github.com/HatHeadNinja/polylog/projects/1)
 * [user interviews](https://github.com/HatHeadNinja/polylog/wiki/User-Interviews)
