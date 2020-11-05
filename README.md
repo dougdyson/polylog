@@ -13,7 +13,6 @@ Traditional lecture style delivery is not well suited for online learning.
 * Monitoring participation is difficult
 * Gauging comprehension is difficult
 * Measuring progress is difficult
-* Improvement opportuntities can be challenging to spot
 
 ## the solution
 Polylog provides a safe space for remote students to learn and interact during an online live lecture.
