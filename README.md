@@ -1,4 +1,4 @@
-# Polylog - a bootcamp capstone project
+# Polylog - a Lighthouse Labs bootcamp capstone project
 Polylog provides a safe space for remote students to learn and interact during an online live lecture.
 
 ## the developers
