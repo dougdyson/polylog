@@ -7,6 +7,7 @@ Polylog reimagines the online lecture experience, blending live video streaming 
 
 ## the problem
 Traditional lecture style delivery is not well suited for online learning.
+* Connecting video cameras and simply sharing a screen can leave hesitant students in remote cohorts behind
 * Cohort sizes are challenged by current video services and bandwidth
 * Keeping everyone on track can be challenging
 * Monitoring participation is difficult
@@ -15,6 +16,8 @@ Traditional lecture style delivery is not well suited for online learning.
 * Improvement opportuntities can be challenging to spot
 
 ## the solution
+Polylog provides a safe space for remote students to learn and interact during an online live lecture.
+
 Check out our [wiki](https://github.com/HatHeadNinja/polylog/wiki)
 
 There you'll find:
