@@ -1,6 +1,8 @@
 # Polylog - a Lighthouse Labs bootcamp capstone project
 Polylog provides a safe space for remote students to learn and interact during an online live lecture.
 
+![polylog-logo](https://github.com/HatHeadNinja/polylog/blob/main/docs/github-social-banner.png)
+
 ## the developers
 * [Carl Comtois](https://github.com/TheMartonfi)
 * [Doug Dyson](https://www.linkedin.com/in/douglasdyson/)
