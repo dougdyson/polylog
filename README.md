@@ -28,7 +28,7 @@ Included in our [wiki](https://github.com/HatHeadNinja/polylog/wiki):
 ## the code
 Our project code is contained in two reposititories:
 * [postgres database and node api server](https://github.com/TheMartonfi/polylog-api)
-* [react front-end](https://github.com/HatHeadNinja/polylog)
+* [react front-end](https://github.com/TheMartonfi/polylog-app)
 
 ## our newsletter
 [subscribe to our newsletter](https://mailchi.mp/a9924ea56d53/aagzuqbgwu)
